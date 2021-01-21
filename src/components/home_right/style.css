@@ -1,17 +1,29 @@
-  .home-right{
-    height: 100%;
-  }
+.home-right {
+  height: 100%;
+}
 
-  .home-right-main{
-    height: 100%;
-  }
+.home-right-main {
+  height: 100%;
+}
 
-  .home-right-main-img{
-      height: 65vh;
-      margin: auto;    
-      display: block;
-  }
+.home-right-main-img {
+  height: 65vh;
+  margin: auto;
+  display: block;
+}
 
-  .home-right-footer{
-     width: 100%;
+.home-right-footer {
+  width: 100%;
+}
+
+@media only screen and (max-width: 500px) {
+  .home-right-main-img {
+    height: 45vh;
   }
+}
+
+@media only screen and (min-width: 501px) and (max-width: 768px) {
+  .home-right-main-img {
+    height: 55vh;
+  }
+}

@@ -16,9 +16,9 @@ function SocialIcons() {
           <a href="https://github.com/namdtfu" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon className="git" icon={faGithub} />
           </a>
-          {/* <a href="https://twitter.com/okrittim" target="_blank" rel="noopener noreferrer">
+          <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon className="twitter" icon={faTwitter} />
-          </a> */}
+          </a>
           <a href="https://www.instagram.com/_iamtiennam/" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon className="insta" icon={faInstagram} />
           </a>
